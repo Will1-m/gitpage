@@ -1,0 +1,51 @@
+/* Estilos CSS para Relive - Personaliza según tu diseño */
+/* css/estilos.css */
+
+/* Se asegura que las tarjetas ocupen el 100% de la altura en su fila */
+.card-producto {
+  margin-bottom: 1.5rem;
+  height: 100%;
+  transition: transform 0.2s;
+}
+
+.card-producto:hover {
+  transform: scale(1.02);
+}
+
+/* Imagen del producto recortada y centrada */
+.card-producto img {
+  object-fit: cover;
+  height: 200px;
+}
+
+/* Título de producto en la tarjeta */
+.card-title-producto {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  text-align: center;
+}
+
+/* Precio pequeño */
+.card-precio {
+  font-size: 0.9rem;
+  color: #dc3545; /* rojo bootstrap */
+  font-weight: 700;
+  text-align: center;
+}
+
+/* Ajuste para el jumbotron/header */
+.jumbotron {
+  background-image: url('../img/banner.jpg'); /* si tienes un banner genérico */
+  background-size: cover;
+  background-position: center;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  color: white;
+}
+
+/* Margen superior en títulos de secciones */
+h2 {
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}

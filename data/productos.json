@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "nombre": "Auricular Bluetooth TWS Fairybuds QCYXiaomi",
+    "categoria": "Auriculares",
+    "subcategoria": "Auricular Bluetooth TWS Fairybuds QCYXiaomi",
+    "archivo_imagen": "productos34_58295.jpg",
+    "descripcion": "Auricular inalámbrico de última generación, sonido estéreo y carga rápida.",
+    "precio": "UYU 1200"
+  },
+  {
+    "id": 2,
+    "nombre": "Auricular roca tipo c",
+    "categoria": "Auriculares",
+    "subcategoria": "Auricular roca tipo c",
+    "archivo_imagen": "productos34_59287.jpg",
+    "descripcion": "Auricular con conexión USB-C y micrófono integrado.",
+    "precio": "UYU 450"
+  },
+  {
+    "id": 3,
+    "nombre": "Manos libres 3.5mm EP-39",
+    "categoria": "Auriculares",
+    "subcategoria": "Manos libres 3.5mm EP-39",
+    "archivo_imagen": "productos34_47327.jpg",
+    "descripcion": "Manos libres clásico con conector de 3.5 mm.",
+    "precio": "UYU 250"
+  },
+  {
+    "id": 4,
+    "nombre": "Power Bank Magnético 10.000mAh",
+    "categoria": "Bancos de energía",
+    "subcategoria": "Power Bank Magnético 10.000mAh Carga Inalámbrica",
+    "archivo_imagen": "productos34_68383.png",
+    "descripcion": "Batería externa magnética compatible con iPhone y Android.",
+    "precio": "UYU 1800"
+  },
+  {
+    "id": 5,
+    "nombre": "Soporte magnético para auto con cargador",
+    "categoria": "Soporte magnético para auto con cargador",
+    "subcategoria": "Soporte magnético para auto con cargador",
+    "archivo_imagen": "productos34_53316.jpg",
+    "descripcion": "Soporte para celular con cargador inalámbrico integrado.",
+    "precio": "UYU 1500"
+  },
+  {
+    "id": 6,
+    "nombre": "Tarjeta MicroSD 16GB",
+    "categoria": "tarjeta MicroSD",
+    "subcategoria": "tarjeta MicroSD",
+    "archivo_imagen": "Tarjeta MicroSD  16gb.jpg",
+    "descripcion": "Tarjeta de memoria de 16GB, Clase 10.",
+    "precio": "UYU 300"
+  },
+  {
+    "id": 7,
+    "nombre": "Tarjeta MicroSD 32GB",
+    "categoria": "tarjeta MicroSD",
+    "subcategoria": "tarjeta MicroSD",
+    "archivo_imagen": "Tarjeta MicroSD  32gb.jpg",
+    "descripcion": "Tarjeta de memoria de 32GB, Clase 10.",
+    "precio": "UYU 450"
+  },
+  {
+    "id": 8,
+    "nombre": "Tarjeta MicroSD 64GB",
+    "categoria": "tarjeta MicroSD",
+    "subcategoria": "tarjeta MicroSD",
+    "archivo_imagen": "Tarjeta MicroSD  64gb.jpg",
+    "descripcion": "Tarjeta de memoria de 64GB, Clase 10.",
+    "precio": "UYU 700"
+  },
+  {
+    "id": 9,
+    "nombre": "Tarjeta MicroSD 128GB",
+    "categoria": "tarjeta MicroSD",
+    "subcategoria": "tarjeta MicroSD",
+    "archivo_imagen": "Tarjeta MicroSD  128gb.jpg",
+    "descripcion": "Tarjeta de memoria de 128GB, Clase 10.",
+    "precio": "UYU 1200"
+  }
+]
